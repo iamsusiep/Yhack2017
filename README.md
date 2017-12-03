@@ -1,4 +1,4 @@
-# AndroidFace
+# Optimized Recipe Search Android App
 ## Description ##
 Utilized Machine Learning Vision API from the Google Cloud Platform for the recognition of the ingredients and used Food2For API to provide a recipe for identified ingredients.
 ## Preview ##
